@@ -79,3 +79,4 @@ debian/files
 week01_embeddings/quora.txt
 week01_embeddings/*.zip
 week01_embeddings/*.vec
+week02_classification/*.csv
