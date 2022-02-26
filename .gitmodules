@@ -1,0 +1,3 @@
+[submodule "textoy"]
+	path = textoy
+	url = git@github.com:roman-baldaev/textoy.git
